@@ -3,30 +3,6 @@ import React from 'react';
 const About = () => {
     return (
         <h1>
-            <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci alias aliquid architecto aut
-                commodi consequatur dicta impedit itaque laboriosam laudantium, modi nam non nulla numquam odit quae
-                voluptatum! Similique.
-            </div>
-            <div>Culpa cum, deleniti deserunt ducimus enim explicabo id iusto magnam numquam, pariatur porro, quia
-                quidem? Ab quisquam, reiciendis! Dignissimos, ducimus explicabo impedit itaque provident qui repellendus
-                velit voluptas? Iste, sequi.
-            </div>
-            <div>Ad aliquid architecto, asperiores aut, consequatur corporis cum eligendi esse eum id magnam maiores
-                maxime mollitia nam nesciunt nisi nobis non, odio officia officiis quasi quos similique suscipit totam
-                vitae.
-            </div>
-            <div>A amet animi atque aut dolorem dolores doloribus ea eligendi harum, id impedit ipsam maiores molestiae
-                nobis possimus provident, quibusdam ratione repudiandae saepe similique sit soluta sunt velit veniam
-                voluptatum?
-            </div>
-            <div>Ad assumenda aut corporis dolores dolorum facere fuga iure maxime molestiae necessitatibus nemo non
-                nostrum officia officiis pariatur, porro, possimus, quis reprehenderit rerum sapiente sequi sunt totam
-                ullam voluptate voluptatibus!
-            </div>
-            <div>Amet assumenda autem blanditiis ea est et exercitationem explicabo necessitatibus, neque perspiciatis
-                provident sapiente similique soluta sunt suscipit ullam vitae! Id impedit tempore vero. Alias beatae
-                nihil perspiciatis sit tenetur.
-            </div>
             <div>Alias aliquid at doloribus hic mollitia rem repellendus tempore, unde! Aliquam architecto aut deleniti
                 dolor, earum esse expedita hic labore maiores modi nam nostrum nulla, quaerat repellendus saepe
                 similique suscipit!
